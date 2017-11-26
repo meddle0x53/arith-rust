@@ -1,6 +1,6 @@
 [package]
 name = "arith"
 version = "0.1.0"
-authors = ["meddle <meddlesmerch@gmail.com>"]
+authors = ["meddle <n.tzvetinov@gmail.com>"]
 
 [dependencies]
